@@ -1,0 +1,6 @@
+{
+  "name": "SaveIQ – AI Savings Goal Tracker",
+  "description": "A minimal, elegant AI-powered savings goal tracker with intelligent guidance, progress analytics, and automated reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
